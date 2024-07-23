@@ -32,7 +32,7 @@ class LoginForm extends Component {
           className="username-input-field"
           id="username"
           type="text"
-          placeholder="Username"
+          placeholder="rahul"
           value={username}
         />
       </div>
@@ -51,7 +51,7 @@ class LoginForm extends Component {
           className="username-input-field"
           id="password"
           type="password"
-          placeholder="Password"
+          placeholder="rahul@2021"
           value={password}
         />
       </div>
